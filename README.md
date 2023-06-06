@@ -7,7 +7,7 @@ Installing Odoo 15 with one command.
 Install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/) yourself, then run:
 
 ``` bash
-curl -s https://raw.githubusercontent.com/pro-777/Hello-odoo15/master/run.sh | sudo bash -s odoo-one 10015 20015
+curl -s https://raw.github.com/anwer-algawe93/odoo15.git/main/run.sh | sudo bash -s odoo-one 10015 20015
 ```
 
 to set up first Odoo instance @ `localhost:10015` (default master password: `mostafa@1234`)
